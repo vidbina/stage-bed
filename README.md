@@ -2,6 +2,8 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
+![Preview of the bed model when composed](./docs/model-preview.png)
+
 This is a frame for the bed that [Leni][leni] and I designed and built with the
 help of [Clément][clement] who you should hire if you need any dope stuff built
 in Berlin :bear: :de:. The panelling work is not included in these drafts. The
@@ -13,7 +15,12 @@ serves a pretty niftly storage unit as well. We built a version with slightly
 higher pillars and I guess a great percentage of humans can sit upright or
 comfortably crawl under the mattress.
 
-![Preview of the bed model when composed](./docs/model-preview.png)
+Here is a picture of Leni posing on a version of the bed. I have to credit
+Clément for the build quality and stellar paint-job.
+
+![Leni sitting on the bed with a decent view of the seating area around the mattress](./docs/leni1.jpg)
+
+![Leni sitting on the bed with the floor visible such that it is possible to see how tall the bed approximately is (half as tall as Leni at least)](./docs/leni2.jpg)
 
 A [plan][plan] of the components required is provided in [docs/plan.pdf][plan]
 
