@@ -2,19 +2,21 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-This is frame for the bed that
-[@lenipaperboats](https://instagram.com/lenipaperboats) and I built. The
-panelling work is not included in these drafts. The design objective was to
-create a bed that we could double as a set for photoshoots or a stage for
-pillow fights or bedroom concerts :sunglasses:.
+This is a frame for the bed that [Leni][leni] and I designed and built with the
+help of [Clément][clement] who you should hire if you need any dope stuff built
+in Berlin :bear: :de:. The panelling work is not included in these drafts. The
+design objective was to create a bed that could double as a set for photoshoots
+or a stage for pillow fights or bedroom concerts :sunglasses:.
 
 ![Preview of the bed model when composed](./docs/model-preview.png)
 
 A [plan][plan] of the components required is provided in [docs/plan.pdf][plan]
+
 ## Parameters
 
-The Dimensions table contains some parameters that can be modified to change
-the dimensions of the model.
+The model has been parameterized to allow the changing of the dimensions of the
+model by simply altering the values in the Dimensions table within the FreeCAD
+project.
 
 > Some components may require repositioning if values in this table are
 > modified.
@@ -39,3 +41,5 @@ the dimensions of the model.
 | | `seat_width` | The width of the sitting edge around the mattress |
 
 [plan]: ./docs/plan.pdf
+[leni]: https://instagram.com/lenipaperboats
+[clement]: https://instagram.com/clecledontplayplay
