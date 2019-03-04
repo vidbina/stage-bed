@@ -34,7 +34,7 @@ the dimensions of the model.
 | `Loadbearer` | `length` | Length of the beams used for top-facing surface |
 | `Loadbearer` | `height` | Height of the beams used for the top-facing surface (same as `Beams` / `height`) |
 | `Loadbearer` | `width` | Width of the beams used for the top-facing surface (same as `Beams` / `width`) |
-| `Pillars` | `height` | I dunno :shrug: |
+| `Pillars` | `height` | I dunno :expressionless: |
 | | `seat_height` | The height of the sitting surface |
 | | `seat_width` | The width of the sitting edge around the mattress |
 
