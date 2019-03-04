@@ -6,7 +6,12 @@ This is a frame for the bed that [Leni][leni] and I designed and built with the
 help of [Clément][clement] who you should hire if you need any dope stuff built
 in Berlin :bear: :de:. The panelling work is not included in these drafts. The
 design objective was to create a bed that could double as a set for photoshoots
-or a stage for pillow fights or bedroom concerts :sunglasses:.
+or a stage for pillow fights or bedroom concerts :sunglasses:. Leni just walked
+into the cafe where I'm publishing this and the first thing she mentioned is
+how she can store her entire life beneath the mattress so yeah... I guess it
+serves a pretty niftly storage unit as well. We built a version with slightly
+higher pillars and I guess a great percentage of humans can sit upright or
+comfortably crawl under the mattress.
 
 ![Preview of the bed model when composed](./docs/model-preview.png)
 
